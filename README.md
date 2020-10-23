@@ -38,15 +38,15 @@
 
 #### Icons ( `.icons` )
 
-- Vimix ( Ruby, B/W )
+- Vimix ( Black, White )
 
 - Nordic ( Dark, Darker )
 
 #### Cursors ( `.icons` )
 
-- Volantes (  Light, Dark )
+- Volantes Light
 
-- Bibata-Modern ( Amber, Classic, Ice)
+- Bibata-Modern Ice
 
 #### Fonts ( `.fonts` )
 
