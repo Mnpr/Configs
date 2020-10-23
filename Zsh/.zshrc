@@ -36,15 +36,25 @@ source $ZSH/oh-my-zsh.sh
 plugins=(
   git
   docker
+  ng
+  npm
+  yarn
   node
+  pip
   python
+  postgres
 )
 
 
 ## Aliases
+alias ga="git add"
 alias gs="git status"
-alias gp="git push"
+alias gc="git commit"
 
+alias aipy="source ~/venvs/ai/bin/activate"
+
+alias nins="npm install"
+alias ns="ng serve"
 
 ## OhMyZsh
 source $ZSH/oh-my-zsh.sh
