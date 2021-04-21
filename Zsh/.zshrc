@@ -51,7 +51,12 @@ alias ga="git add"
 alias gs="git status"
 alias gc="git commit"
 
-alias aipy="source ~/venvs/ai/bin/activate"
+alias aipy="conda activate aipy"
+alias webpy="conda activate webpy"
+alias base="conda activate base"
+
+alias expmts="cd ~/Documents/Experiments/"
+alias vcsed="cd ~/Documents/VersionControlled/"
 
 alias nins="npm install"
 alias ns="ng serve"
