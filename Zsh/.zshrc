@@ -30,8 +30,6 @@ ZSH_THEME="powerlevel10k/powerlevel10k"
 # Display red dots whilst waiting for completion.
 COMPLETION_WAITING_DOTS="true"
 
-source $ZSH/oh-my-zsh.sh
-
 ##  PlugIns  --------------------------------------------------
 plugins=(
   git
