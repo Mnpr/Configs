@@ -8,15 +8,15 @@
 ```
 
 
-(+) **Tux** Configs : DE, WM, Shell, & Editors
-- Zsh : [`~/.zshrc`]()
-- Alacritty: [`~/.config/alacritty/alacritty.yml`]()
-- SpaceVim: [`~/.SpaceVim.d/init.toml`]()
+(+) **Tux** Configs and Customizations
+- Zsh : [`~/.zshrc`](./configs/tux/zsh/.zshrc)
+- Alacritty: [`~/.config/alacritty/alacritty.yml`](./configs/tux/alacritty/alacritty.yml)
+- SpaceVim: [`~/.SpaceVim.d/init.toml`](./configs/tux/spacevim/init.toml)
 - GNOME Tweaks `~/`
-  - [.fonts]()
-  - [.themes]()
-  - [.icons]()
-  - [.cursors]()
+  - [.fonts](./gnome_tweaks/fonts/)
+  - [.themes](./gnome_tweaks/themes/)
+  - [.icons](./gnome_tweaks/icons/)
+  - [.cursors](./gnome_tweaks/cursors/)
 
 (+) **Scripts**:
   - ...
