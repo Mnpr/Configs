@@ -1,43 +1,22 @@
 ```shell
-╔═══╗╔╗                ╔╗  ╔╗            ╔════╗    ╔╗        ╔═══╗          
-║╔═╗║║║               ╔╝╚╗╔╝╚╗           ╚══╗ ║    ║║        ║╔═╗║          
-║║ ║║║║ ╔══╗ ╔══╗╔═╗╔╗╚╗╔╝╚╗╔╝╔╗ ╔╗        ╔╝╔╝╔══╗║╚═╗      ║╚══╗╔╗╔╗╔╗╔╗╔╗
-║╚═╝║║║ ╚ ╗║ ║╔═╝║╔╝╠╣ ║║  ║║ ║║ ║║       ╔╝╔╝ ║══╣║╔╗║      ╚══╗║║╚╝║╠╣║╚╝║
-║╔═╗║║╚╗║╚╝╚╗║╚═╗║║ ║║ ║╚╗ ║╚╗║╚═╝║╔╗    ╔╝ ╚═╗╠══║║║║║╔╗    ║╚═╝║╚╗╔╝║║║║║║
-╚╝ ╚╝╚═╝╚═══╝╚══╝╚╝ ╚╝ ╚═╝ ╚═╝╚═╗╔╝╚╣    ╚════╝╚══╝╚╝╚╝╚╣    ╚═══╝ ╚╝ ╚╝╚╩╩╝
-                              ╔═╝║  ╝                   ╝                   
-                              ╚══╝                                          
+   ,___                       ()      __,
+  /   /         /)o           /\     (           o       _/_
+ /    __ _ _   //,  _,  (    (  X     `.  _, _  ,   ,_   /  (
+(___/(_)/ / /_//_(_(_)_/_)_   \/ \  (___)(__/ (_(__/|_)_(__/_)_
+             /)     /|                             /|
+            (/     (/                             (/
 ```
-(+) Icons, Cursors and Themes
 
-## Zsh
 
-- .Zshrc ( `~/.zshrc` )
+(+) **Tux** Configs : DE, WM, Shell, & Editors
+- Zsh : [`~/.zshrc`]()
+- Alacritty: [`~/.config/alacritty/alacritty.yml`]()
+- SpaceVim: [`~/.SpaceVim.d/init.toml`]()
+- GNOME Tweaks `~/`
+  - [.fonts]()
+  - [.themes]()
+  - [.icons]()
+  - [.cursors]()
 
-## Alacritty
-
-- alacritty.yml ( `~/.config/alacritty/alacritty.yml` )
-
-## SpaceVim
-
-- Init.toml ( `~/.SpaceVim.d/init.toml` )
-
-## IconFontThemes
-
-#### Themes ( `.themes` )
-
-- Nordic ( Dark, Bluish-accent, Polar)
-
-- Prof-Gnome ( Dark, Light, DL)
-
-#### Icons ( `.icons` )
-
-- Vimix ( Black, White )
-
-- Nordic ( Dark, Darker )
-
-#### Cursors ( `.icons` )
-
-- Volantes Light
-
-- Bibata-Modern Ice
+(+) **Scripts**:
+  - ...
