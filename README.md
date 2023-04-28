@@ -9,9 +9,9 @@
 
 
 (+) **Tux** Configs and Customizations
-- Zsh : [`~/.zshrc`](./configs/tux/zsh/.zshrc)
-- Alacritty: [`~/.config/alacritty/alacritty.yml`](./configs/tux/alacritty/alacritty.yml)
-- SpaceVim: [`~/.SpaceVim.d/init.toml`](./configs/tux/spacevim/init.toml)
+- [[Zsh]()] : [`~/.zshrc`](./configs/tux/zsh/.zshrc)
+- [[Alacritty]()] : [`~/.config/alacritty/alacritty.yml`](./configs/tux/alacritty/alacritty.yml)
+- [[SpaceVim]()] : [`~/.SpaceVim.d/init.toml`](./configs/tux/spacevim/init.toml)
 - GNOME Tweaks `~/`
   - [.fonts](./gnome_tweaks/fonts/)
   - [.themes](./gnome_tweaks/themes/)
