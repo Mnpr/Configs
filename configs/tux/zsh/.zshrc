@@ -51,9 +51,6 @@ plugins=(
 #   export EDITOR='mvim'
 # fi
 
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
-
 
 ## Aliases
 alias cfpy="conda activate api_server"
@@ -61,6 +58,12 @@ alias expy="conda activate expy"
 alias dlpy="conda activate dlpy"
 alias webpy="conda activate webpy"
 alias base="conda activate base"
+
+alias ga="git add"
+alias gc="git commit"
+alias gs="git status"
+alias gl="git log"
+alias gpo="git push -u origin"
 
 alias expmts="cd ~/Workspace/Experiments/"
 alias vced="cd ~/Workspace/VersionControl/"
