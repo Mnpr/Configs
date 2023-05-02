@@ -11,7 +11,7 @@
 (+) **Tux** Configs and Customizations
 - [[Zsh]()] : [`~/.zshrc`](./configs/tux/zsh/.zshrc)
 - [[Alacritty]()] : [`~/.config/alacritty/alacritty.yml`](./configs/tux/alacritty/alacritty.yml)
-- [[SpaceVim]()] : [`~/.SpaceVim.d/init.toml`](./configs/tux/spacevim/init.toml)
+- [[NVim]()] : [`~/.config/nvim/init.lua`](./configs/tux/neovim/init.lua)
 - GNOME Tweaks `~/`
   - [.fonts](./gnome_tweaks/fonts/)
   - [.themes](./gnome_tweaks/themes/)
