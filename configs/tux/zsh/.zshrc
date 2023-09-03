@@ -23,16 +23,8 @@ COMPLETION_WAITING_DOTS="true"
 
 ##  PlugIns  --------------------------------------------------
 plugins=(
-  aws
-  celery
   colored-man-pages
-  dotenv
-  gcloud
-  gitfast
   gh
-  docker
-  docker-compose
-  npm
   python
   rust
   taskwarrior
@@ -53,7 +45,6 @@ plugins=(
 
 
 ## Aliases
-alias cfpy="conda activate api_server"
 alias expy="conda activate expy"
 alias dlpy="conda activate dlpy"
 alias webpy="conda activate webpy"
@@ -63,12 +54,13 @@ alias ga="git add"
 alias gc="git commit"
 alias gs="git status"
 alias gl="git log"
-alias gpo="git push -u origin"
 
-alias expmts="cd ~/Workspace/Experiments/"
-alias vced="cd ~/Workspace/VersionControl/"
+alias expmts="cd ~/Workspace/Thesiswork/"
+alias vced="cd ~/Workspace/Vcsed/"
 alias learn="cd ~/Workspace/Learning/"
 
+alias cat="batcat"
+alias vi="nvim"
 source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
@@ -76,14 +68,14 @@ source $ZSH/oh-my-zsh.sh
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-__conda_setup="$('/home/mnpr_term/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+__conda_setup="$('/home/mnpr-tux/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
 if [ $? -eq 0 ]; then
     eval "$__conda_setup"
 else
-    if [ -f "/home/mnpr_term/miniconda3/etc/profile.d/conda.sh" ]; then
-        . "/home/mnpr_term/miniconda3/etc/profile.d/conda.sh"
+    if [ -f "/home/mnpr-tux/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/mnpr-tux/miniconda3/etc/profile.d/conda.sh"
     else
-        export PATH="/home/mnpr_term/miniconda3/bin:$PATH"
+        export PATH="/home/mnpr-tux/miniconda3/bin:$PATH"
     fi
 fi
 unset __conda_setup
