@@ -92,7 +92,7 @@ font:
   # Normal (roman) font face
   normal:
     # Font family
-    family: MesloLGS NF
+    family: BlexMono Nerd Font
     # `style` to pick a specific face.
     #style: Regular
 
@@ -109,7 +109,7 @@ font:
     #style: Bold Italic
 
   # Point size
-  size: 15.0
+  size: 16.0
 
   # Offset: `offset.y` line spacing, & `offset.x` letter spacing.
   #offset:
