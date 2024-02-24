@@ -26,23 +26,10 @@ plugins=(
 )
 
 
-# User configuration
-
-# export MANPATH="/usr/local/man:$MANPATH"
-# export LANG=en_US.UTF-8
-
-# Preferred editor for local and remote sessions
-# if [[ -n $SSH_CONNECTION ]]; then
-#   export EDITOR='vim'
-# else
-#   export EDITOR='mvim'
-# fi
-
-
 ## Aliases
 alias expy="conda activate expy"
-alias dlpy="conda activate dlpy"
-alias webpy="conda activate webpy"
+alias rlpy="conda activate rlpy"
+alias ffepy="conda activate ffe-rl"
 alias base="conda activate base"
 
 alias ga="git add"
@@ -50,10 +37,13 @@ alias gc="git commit"
 alias gs="git status"
 alias gl="git log"
 
-alias expmts="cd ~/Workspace/Thesiswork/"
-alias vced="cd ~/Workspace/Vcsed/"
+alias work="cd ~/Workspace/Thesiswork/"
+alias vced="cd ~/Workspace/Vced/"
 alias learn="cd ~/Workspace/Learning/"
 
 alias cat="batcat"
 alias vi="nvim"
+alias zshconfig="vi ~/.zshrc"
+
+
 source $ZSH/oh-my-zsh.sh
