@@ -10,7 +10,7 @@
 
 (+) **Tux** Configs and Customizations
 - [[Zsh]()] : [`~/.zshrc`](./tux/zsh/.zshrc)
-- [[Alacritty]()] : [`~/.config/alacritty/alacritty.yml`](./tux/alacritty/alacritty.yml)
+- [[Alacritty]()] : [`~/.config/alacritty/alacritty.yml`](./tux/alacritty/alacritty.toml)
 - [[NVim]()] : [`~/.config/nvim/init.lua`](./tux/neovim/init.lua)
 
 (+) **Scripts**:
